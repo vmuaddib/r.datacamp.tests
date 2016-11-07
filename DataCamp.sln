@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "rproject1-Test", "rproject1-Test\rproject1-Test.rxproj", "{0BD2DC6E-0F4F-4DD1-8EF8-CD2FE3454FC5}"
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "R Beginner", "rproject1-Test\R Beginner.rxproj", "{0BD2DC6E-0F4F-4DD1-8EF8-CD2FE3454FC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
