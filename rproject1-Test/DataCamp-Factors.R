@@ -60,4 +60,4 @@ factor_speed_vector <- factor(speed_vector, ordered = TRUE, levels = c("Slow", "
 factor_speed_vector
 
 # R prints automagically in the right order
-summary(factor_speed_vector)
+summary(factor_speed_vector) 
